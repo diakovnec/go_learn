@@ -1,3 +1,3 @@
-module learning_go
+module main
 
 go 1.22.8
